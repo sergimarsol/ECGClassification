@@ -37,14 +37,14 @@ To get started with the ECG Classification project, follow these steps:
    Ensure you have MATLAB installed on your system. The project may require additional toolboxes or dependencies; refer to the documentation for specific requirements.
 
 3. **Load ECG Data:**
-   Prepare your ECG dataset or use the provided sample data. Ensure the data is in a compatible format.
+   Prepare your ECG dataset or use the provided sample data (directories /ECG_normal and /ECG_noisy). Ensure the data is in a compatible format.
 
 4. **Run MATLAB Script:**
-   Execute the MATLAB script (located in the `src` directory) to perform ECG classification on the provided dataset.
+   Execute the MATLAB script to perform ECG classification on the provided dataset.
 
 ## MATLAB File
 
-The core functionality of the project is encapsulated in the MATLAB file `ECGClassification.m` (located in the `src` directory). This file contains the algorithms for feature extraction, noise detection, and arrhythmia classification.
+The core functionality of the project is encapsulated in the MATLAB file `ECGClassification.m`. This file contains the algorithms for feature extraction, noise detection, and arrhythmia classification.
 
 ## Presentation
 
