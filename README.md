@@ -12,7 +12,6 @@ ECG Classification is a MATLAB-based project focused on the classification of El
 4. [MATLAB File](#matlab-file)
 5. [Presentation](#presentation)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
@@ -52,12 +51,6 @@ Explore the `ECGClassification_presentation.pdf` file to find a comprehensive pr
 
 ## Contributing
 
-Contributions to ECG Classification are encouraged. Whether you want to report issues, propose enhancements, or submit pull requests, please review our [contribution guidelines](CONTRIBUTING.md).
+## Getting Started
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing for the use, modification, and distribution of the project for personal or commercial purposes.
-
----
-
-Feel free to customize this README to better fit the specifics of your project. Update the placeholders like `[your-username]` with the actual details and provide more detailed information about the MATLAB script and the structure of your project if necessary.
+If you have any questions or feedback, feel free to reach out to me.
